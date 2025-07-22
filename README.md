@@ -33,9 +33,6 @@ Set up a systemd-based launch service for the robot.
 cd ~/ros2_ws/src/ros2_rover/rover_service
 sudo ./install.sh
 ```
-<div align="center">
-    <img src="gazebo.png" width="30%"/>
-</div>
 
 
 ## Gazebo Simulation
@@ -45,10 +42,13 @@ ros2 launch rover_gazebo moon.launch.py
  ```
 
 <div align="center">
-  <img src="robot_nav.gif" alt="Nav2 Simulation Demo" width="30%"/>
+  <img src="RVIZ.gif" alt="Nav2 Simulation Demo" width="30%"/>
 </div>
 
 
+<div align="center">
+  <img src="mars_rover.gif" alt="Nav2 Simulation Demo" width="30%"/>
+</div>
 
 
 
